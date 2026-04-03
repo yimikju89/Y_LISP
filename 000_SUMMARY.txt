@@ -1,2 +1,6 @@
-{YARANGE /// aaa}
-{YBC /// bbb}
+{YARANGE /// 설명}
+{YBC /// 설명}
+{YBRIDGE /// 설명}
+{YBRIDGE_DATA /// 설명}
+{YBRIDGE_DATA_SIMPLE /// 설명}
+{YDIM /// 설명}
