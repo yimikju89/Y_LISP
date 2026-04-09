@@ -1,4 +1,4 @@
-{YARANGE /// YARANGE 설명}
+{YARRANGE /// YARANGE 설명}
 {YBC /// YBC 설명}
 {YBRIDGE /// YBRIDGE 설명}
 {YBRIDGE_DATA /// {YBRIDGE_DATA 설명}
