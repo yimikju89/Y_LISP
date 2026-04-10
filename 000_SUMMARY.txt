@@ -5,4 +5,4 @@
 {YBRIDGE_DATA_SIMPLE /// YBRIDGE_DATA_SIMPLE 설명}
 {YDIM /// YDIM 설명}
 {YINTERSECT /// Tool 객체와의 모든\n교차점을 Braeak 합니다.}
-{YSCALE /// 대상의 }
+{YSCALE /// X,Y 다른 축적을 적용할 수 있습니다. \n기존 블록+축적 변경에서 나타났던 문제점(폴리라인 깨짐, 글자가 변경)을 방지할 수 있습니다.\nex)종단계획에서 Y축적 적용}
