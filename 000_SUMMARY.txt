@@ -4,6 +4,5 @@
 {YBRIDGE_DATA /// {YBRIDGE_DATA 설명}
 {YBRIDGE_DATA_SIMPLE /// YBRIDGE_DATA_SIMPLE 설명}
 {YDIM /// YDIM 설명}
-{YINTERSECT /// Tool 객체와의 모든 
-교차점을 Braeak 합니다.}
+{YINTERSECT /// Tool 객체와의 모든\n교차점을 Braeak 합니다.}
 {YSCALE /// 대상의 }
